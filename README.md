@@ -8,4 +8,4 @@ This repository contains a single file, a script for gathering the basic configu
 
 ## Work Submission
 
-Thus is the  customized file 
+The link to my git website is : https://marywamaitha.github.io/lab-1/experience.html
